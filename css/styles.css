@@ -1,0 +1,50 @@
+/****************tag selectors************/
+
+body {
+  background-color: #FFD93D;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #4D96FF;
+  border-width: 5px;
+  width: 8%;
+}
+h1 {
+  color: #FF6B6B;
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+h2 {
+  color: #FF6B6B;
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+h3 {
+  color: #6BCB77;
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+ul {
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+table {
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+label {
+  font-family: "Lucida Console","Courier New", monospace;
+}
+
+img:hover {transform: scale(1.2);}
+img {transition: transform .2s;}
+/***************Class selectors***************/
+
+.rome {color: black;}
+
+/***************ID selectors***************/
+
+#heading {
+  color: green;
+}
